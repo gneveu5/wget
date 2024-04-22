@@ -75,6 +75,6 @@ Go-Wget provides functionalities similar to the popular command-line utility Wge
 - `--convert-links`: Convert links in downloaded HTML files to make them relative.
 - `-B, --background`: Download files in the background.
 
-## License
+## Note
 
-This project is licensed under the [MIT License](LICENSE).
+I am aware that there may be errors in best practices as this project is part of my learning process during my training. I appreciate any feedback and suggestions for improvement.
